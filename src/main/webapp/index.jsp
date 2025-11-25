@@ -573,7 +573,7 @@
                 <h1>Winter Collection 2025</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
-                    <button class="btn btn-primary" id="shopNow">Shop Now <i class="fas fa-arrow-right"></i></button>
+                    <button class="btn btn-primary" id="shopNow">Checkout Now <i class="fas fa-arrow-right"></i></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
                 </div>
             </div>
